@@ -1,0 +1,5 @@
+ipaddress
+pyric
+multiprocessing
+scapy
+prettytable
